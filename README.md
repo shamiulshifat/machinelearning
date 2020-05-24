@@ -5,7 +5,7 @@ good luck!
 Requirement:
 Python 3
 keras 2.3.1
-timensorflow 2.2
+tensorflow 2.2
 flask
 html
 streamlit
